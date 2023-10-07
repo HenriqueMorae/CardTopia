@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7c2a3e9ae74347be8a2efb0e65f080f, type: 3}
+  m_Name: "Expans\xE3o"
+  m_EditorClassIdentifier: 
+  cardName: "Expans\xE3o"
+  type: 2
+  cost: 2
+  description: "Descarte: Ganhe +1 espa\xE7o de cidade."
+  artwork: {fileID: 21300000, guid: 22a00eba564615946a3da435e8ad8b3c, type: 3}
+  effect: 0
+  ability: 9

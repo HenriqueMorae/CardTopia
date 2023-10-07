@@ -1,0 +1,4 @@
+repository "Card Game@ClickCom@cloud"
+  path "/"
+    br "/main"
+    co "/main"
